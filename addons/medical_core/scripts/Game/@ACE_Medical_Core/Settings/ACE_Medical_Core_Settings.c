@@ -19,4 +19,7 @@ class ACE_Medical_Core_Settings : ACE_ModSettings
 	
 	[Attribute(defvalue: "600.0", desc: "After how many seconds litter should be deleted.")]
 	float m_fLitterCleanUpTime;
+	
+	[Attribute(defvalue: "0.666", desc: "Maximum scaled health (from 0 to 1) that a splint can heal to.", uiwidget: UIWidgets.Slider, params: "0 1")]
+	float m_fSplintMaxHealScaled;
 }
