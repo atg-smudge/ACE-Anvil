@@ -17,6 +17,7 @@ StringTable {
   CustomStringTableItem "{E7BD7C2E95E21980}" {
    Id "ACE_Medical-DamageInfo_SplintApplied"
    Target_en_us "Splint applied"
+   Target_ko_kr "부목 적용"
    Modified 1791333945
    Author "Smudge"
    LastChanged "Smudge"
@@ -148,6 +149,7 @@ StringTable {
    Id "ACE_Medical-InfoWidget_Splint"
    Target_en_us "Stabilizes fractures and speeds up healing"
    Target_de_de "Stabilisiert Frakturen und beschleunigt Heilung"
+   Target_ko_kr "골절 부위 안정과 회복 속도 강화"
    Modified 1725267534
    Author "Kexanone"
    LastChanged "Kexanone"
@@ -210,6 +212,7 @@ StringTable {
    Id "ACE_Medical-Item_Splint_Description"
    Target_en_us "Applied to patients with fractures."
    Target_de_de "Angewandt an Patienten mit Frakturen."
+   Target_ko_kr "골절을 당한 환자에게 적용합니다."
    Modified 1725264660
    Author "Kexanone"
    LastChanged "Kexanone"
@@ -218,6 +221,7 @@ StringTable {
    Id "ACE_Medical-Item_Splint_Name"
    Target_en_us "Splint"
    Target_de_de "Schiene"
+   Target_ko_kr "부목"
    Modified 1725264203
    Author "Kexanone"
    LastChanged "Kexanone"
@@ -361,6 +365,7 @@ StringTable {
    Id "ACE_Medical-UserAction_UseSplint"
    Target_en_us "Use splint"
    Target_de_de "Schiene anwenden"
+   Target_ko_kr "부목 사용하기"
    Modified 1725444110
    Author "Kexanone"
    LastChanged "Kexanone"
